@@ -14,32 +14,32 @@
   "env": {
     "PREFIX": {
       "description": "choose your bot prefix",
-      "value": "#",
+      "value": ".",
       "required": true
     },
     "AUTO_READ_STATUS": {
       "description": "Your contact status will be read automatically (type yes to activate or no to deactivate; don't write in capital letters)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Your contact status will be downloaded automatically and sent to you (type yes to activate or no to deactivate; don't write in capital letters)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "PM_PERMIT": {
       "description": "Other users can't use your bot in private messages (type yes to activate or no to deactivate; don't write in capital letters)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "BOT_NAME": {
       "description": "put a name for your bot",
-      "value": "Zokou-MD",
+      "value": "muhaymar-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many links for your bot menu; e.g., url1,url2,url3..... || Or a theme name",
-      "value": "LUFFY",
+      "value": "muhaymar",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -57,18 +57,18 @@
     },
     "SESSION_ID": {
       "description": "put your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUZZYmE3MkV5R0tVQUREbmlCQ0hTWm83VU1ZS3pPTVI3aE1aaWdmN3UwND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNFF2a3EvNWVMdnN5OXMvV21RK254bk5qdi80OVZMRUVKSFFiZzdjRVdpTT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFQmVXTDN5akJVZ0hsMVdwdGRzSWlMSldvTy9LbjRvdVhNN3lvZnBBZjNVPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNalo5aXl3MTVRakxkR0QrUk01cDVPRWJqaWZqU0lMaDJvTWtpczVsMzE0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNHa0xXN2FlbnF1dW1FbFQwellIMGlFUDl6aElNb2NuU1BFOS9SbE5YRkE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndkQkJVRnpvTnRBTmR1a09OcU5tMHZQcGtzc3E5bXRiTmt5UXFaMmpubEU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic09YdTZoNjV2NEJBUkx3L1lSNStKakJlM1FFbVZRNXN1c0duNi9PYmJuQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicmRvWHlwT2dkZkZ4a05KdldyM0FwVUNZbDl5NUZsSGFzaVBvU0w0SGNncz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikl2MFlRYy9NeG5MOFRoV2NTK3JQMkZOR0MycGw1eHRPWXREUDVjYStCUVpObEJFazFibWFNQjJweFJvMmFEQlUvWEJ3bGxJSnhaQ2w1WlRyVU5iemdBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NDMsImFkdlNlY3JldEtleSI6InNEMmZhbHdNeEk3bmN3NzFZVEpHNjIvTHB2cVZzcUxGbjk0YUFmUUpwWUU9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJyZWdpc3RlcmVkIjpmYWxzZSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0txVTI4a09FTitYcXNBR0dBVWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Ikw3ZTVaTlcybURQc3E0aDZ1NUptb3RKallFc1pPN3RBeU5SR3U5MEhYRm89IiwiYWNjb3VudFNpZ25hdHVyZSI6Ijl1WnBYK2dubXExR21EMFQ1YW1pSkZ1SWRTOVYrWVZKQ2xzWFQrZjVxbEFtZkRHYzJtSEp1YXpyS3lGM3FDcC85d2xCRnBaNzgwL25Vb0FLM0pDU0F3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJCR2VTT0g0aWI2T0k5Uyt6WlZIZ2FiLzZBZWhvRFJwOE1SbzVsZVhZbU4yc3VaUFBxamFCNUlpd0lZeVlUVEdxaGx1MjByKzJZU25kTjlKeHJ1blFnQT09In0sIm1lIjp7ImlkIjoiMjU0Nzc3NDY1NDE2OjMwQHMud2hhdHNhcHAubmV0IiwibGlkIjoiOTYyMTIxMzMzMTY0NzozMEBsaWQifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0Nzc3NDY1NDE2OjMwQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlMrM3VXVFZ0cGd6N0t1SWVydVNacUxTWTJCTEdUdTdRTWpVUnJ2ZEIxeGEifX1dLCJwbGF0Zm9ybSI6ImlwaG9uZSIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FJSUNBPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzQ1NTIxNjQ1LCJsYXN0UHJvcEhhc2giOiIxSzRoSDQifQ==",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Your Name",
+      "description": "muhaymar",
       "required": false,
       "value": "Djalega++"
     },
     "NUMERO_OWNER": {
       "description": "Your number, don't put '+' and include your area code (example for Togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "254777465416"
     },
     "WARN_COUNT": {
       "description": "this is the limit of warnings for warning commands",
@@ -82,7 +82,7 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-      "value": "",
+      "value": "1",
       "required": false
     },
     "PM_CHATBOT": {
@@ -93,17 +93,17 @@
     "ANTI_VIEW_ONCE": {
       "description": "Put yes if you want to receive all view once content in private messages",
       "required": false,
-      "value": "no"
+      "value": "yes"
     },
     "ANTI_COMMAND_SPAM": {
       "description": "activate a cooldown of 10 seconds for every user after a command to avoid spamming unless owner and mods",
       "required": false,
-      "value": "no"
+      "value": "yes"
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "Put yes if you want messages deleted by other users to be sent to you in private messages",
       "required": false,
-      "value": "no"
+      "value": "yes"
     },
     "AUTO_REACT_MESSAGE": {
       "description": "Put yes if you want messages to be automatically reacted to",
