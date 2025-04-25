@@ -87,17 +87,17 @@
     },
     "PM_CHATBOT": {
       "description": "Put yes if you want the bot to automatically respond to messages in private",
-      "required": false,
+      "required": true,
       "value": "no"
     },
     "ANTI_VIEW_ONCE": {
       "description": "Put yes if you want to receive all view once content in private messages",
-      "required": false,
+      "required": true,
       "value": "yes"
     },
     "ANTI_COMMAND_SPAM": {
       "description": "activate a cooldown of 10 seconds for every user after a command to avoid spamming unless owner and mods",
-      "required": false,
+      "required": true,
       "value": "yes"
     },
     "ANTI_DELETE_MESSAGE": {
